@@ -1,6 +1,6 @@
 # africaNLP2021
 
-This dataset contains aligned bible corpus for machine translation in English and Yoruba. If you use this dataset please cite our paper(https://arxiv.org/pdf/2103.04225.pdf):
+This dataset contains aligned bible corpus for machine translation in English and Yoruba. If you use this dataset please cite our [paper](https://arxiv.org/pdf/2103.04225.pdf):
 
 ```
 @article{adebara2021translating,
